@@ -1,4 +1,4 @@
-# Comptational Microbial Genomics
+# Computational Microbial Genomics
 
 ## Project Description  
 This project aims to analyze Metagenome-Assembled Genomes (MAGs) from a dental plaque species-level genome bin (SGB). By leveraging computational metagenomics techniques, the project explores microbial diversity, taxonomic classification, and potential links between microbiome composition and peri-implant diseases.  
